@@ -1,0 +1,29 @@
+ZLT Co Closed Source License
+Copyright (c) 2026 ZLT Co
+
+Software: Reen
+
+All rights reserved.
+
+This software and its source code are proprietary and confidential property of ZLT Co.
+
+Permission is granted to end users to install and use the compiled version of this software for personal use only.
+
+You may NOT:
+• Copy, modify, or redistribute the source code.
+• Reverse engineer, decompile, or disassemble the software.
+• Repackage or sell the software.
+• Distribute modified versions of the application.
+• Use the software for illegal or abusive automation.
+
+The software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement.
+
+In no event shall ZLT Co be liable for any claim, damages or other liability arising from the use of this software.
+
+Violation of these terms may result in legal action.
+
+Official Website:
+https://zlt-co.github.io/zltco-website/
+
+Official Discord:
+https://discord.com/invite/qGbqGC2uCs
